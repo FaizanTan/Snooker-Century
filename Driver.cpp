@@ -8,6 +8,7 @@ int main() {
 		cout << "Choose from following\n";
 		cout << "\t\t\t\t1. Start Game\n";
 		cout << "\t\t\t\t2. Save Game\n";
+		cout << "\t\t\t\t3. Load Game\n";
 		cout << "\t\t\t\t<press any key to exit>\n";
 
 		cout << "\n\nYour choice <1 - 3>\t:\t";

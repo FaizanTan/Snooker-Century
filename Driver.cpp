@@ -30,4 +30,5 @@ int main() {
 		cout << ex.what() << endl;
 	}
 
+	return 0;
 }

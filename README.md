@@ -1,4 +1,4 @@
-# Snooker_Century
+# Snooker Century
 C++ console based desktop application for recording and managing live game score for the variant of Snooker known as Century
 README!
 Snooker Century Score Management (Console Based Desktop Application)
